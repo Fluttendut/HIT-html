@@ -1,0 +1,9 @@
+body {background-color: white}
+
+#header1 {width: 10%; height: 417px; background-color: red; display: inline;float: left; margin-left: 5%; margin-top: 200px}
+#header2 {width: 10%; height: 120px; background-color: red; display: inline; float: left;margin-top: 338px}
+#header3 {width: 10%; height: 417px; background-color: red; display: inline; float: left; margin-top: 200px}
+#header4 {width: 10%; height: 417px; background-color: green; display: inline; float: left; margin-left: 10%; margin-top: 200px}
+#header5 {width: 10%; height: 144px; background-color: blue; display: inline; float: left; margin-left: 10%; margin-top: 200px}
+#header6 {width: 10%; height: 417px; background-color: blue; display: inline; float: left; margin-left: 0; margin-top: 200px}
+#header7 {width: 10%; height: 144px; background-color: blue; display: inline; float: left; margin-left: 0; margin-top: 200px}
